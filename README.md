@@ -1,2 +1,5 @@
-# curso-javaBasico
-Curso de Java Básico com Gustavo Guanabara
+# Java básico
+
+início 27/06/2023 - término //
+
+ Curso de Java com Gustavo Guanabara - Curso em Vídeo
